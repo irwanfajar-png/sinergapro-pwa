@@ -1,0 +1,15 @@
+{
+  "name": "SINERGAPRO — Integrated Waste Management & Logistics Platform",
+  "short_name": "SINERGAPRO",
+  "description": "Platform digital B2B untuk pengangkutan, pengelolaan, compliance, penawaran dan dokumen Limbah B3.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f4f6f8",
+  "theme_color": "#14202b",
+  "icons": [
+    {"src":"/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
