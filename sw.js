@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sinergapro-v36-pwa-1';
+const CACHE_NAME = 'sinergapro-v36-pwa-2';
 const APP_SHELL = [
   '/',
   '/index.html',
